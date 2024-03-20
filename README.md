@@ -18,11 +18,11 @@ We propose **EgoExoLearn**, a dataset that emulates the human demonstration foll
 
 Please visit each subfolder for code and annotations.
 
-We design benchmarks of 1) [cross-view association](./association_benchmark/), 2) cross-view action understanding ([action segmentation](./temporal_action_segmentation/), [action ancitipation](./action_anticipation_planning/), [action planning](./action_anticipation_planning)), 3) [cross-view referenced skill assessment](./skill_benchmark/), and 4) cross-view referenced video captioning.
+We design benchmarks of 1) [cross-view association](./association_benchmark/), 2) cross-view action understanding ([action segmentation](./temporal_action_segmentation/), [action ancitipation](./action_anticipation_planning/), [action planning](./action_anticipation_planning)), 3) [cross-view referenced skill assessment](./skill_benchmark/), and 4) [cross-view referenced video captioning]().
 Each benchmark is meticulously defined, annotated, and supported by baseline implementations. In addition, we pioneeringly explore the role of gaze in these tasks.
 We hope our dataset can provide resources for future work for bridging asynchronous procedural actions in ego- and exo-centric perspectives, thereby inspiring the design of AI agents adept at learning from real-world human demonstrations and mapping the procedural actions into robot-centric views. 
 
-## :hammer: Data access
+## :bookmark_tabs: Data access
 ### Google Drive links
 [Videos (320p, mp4)](https://drive.google.com/file/d/13L0VsE-qYgeqVVdBW_Yb3qKSAD9ucNfs/view?usp=drive_link)
 
@@ -41,10 +41,17 @@ We hope our dataset can provide resources for future work for bridging asynchron
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-    @InProceedings{huang2024vbench,
+    @InProceedings{huang2024egoexolearn,
         title={EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World},
         author={Huang, Yifei and Chen, Guo and Xu, Jilan and Zhang, Mingfang and Yang, Lijin and Pei, Baoqi and Zhang, Hongjie and Lu, Dong and Wang, Yali and Wang, Limin and Qiao, Yu},
         booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
         year={2024}
     }
    ```
+
+   ## :hearts: Acknowledgement
+
+If you have any questions, feel free to contact Yifei Huang by email (hyf <.at.> iis.u-tokyo.ac.jp).
+
+This project wouldn't be possible without the following open-sourced repositories:
+[LaVILA](https://github.com/facebookresearch/LaViLa), [RAAN](https://github.com/hazeld/rank-aware-attention-network).
