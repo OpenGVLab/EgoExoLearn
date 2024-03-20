@@ -68,3 +68,5 @@ python main.py --config ./configs/test.yml
 
 The codebase is based on [LaVILA](https://github.com/facebookresearch/LaViLa).
 We thank the authors for their efforts.
+
+If you have any questions, feel free to contact Jilan Xu (18210240039 <at> fudan.edu.cn)

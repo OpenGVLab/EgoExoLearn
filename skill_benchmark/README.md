@@ -39,3 +39,5 @@ Please download the extracted i3d features for Cross-view Referenced Skill Asses
 ## Acknowledgement
 This code is based on [RAAN](https://github.com/hazeld/rank-aware-attention-network).
 We thank the authors for their efforts.
+
+If you have any questions, feel free to contact Mingfang at mfzhang <at> iis.u-tokyo.ac.jp
