@@ -1,0 +1,19 @@
+_base_: './our_default.yml'
+data:
+  dataset: ourdata_ego
+  clip_length: 4
+  
+model:
+  name: CLIP_OPENAI_TIMESFORMER_BASE
+  pretrained_visual_checkpoint: null
+  project_embed_dim: 256
+
+train:
+  epochs: 10
+  batch_size: 16
+  
+test:
+  testonly: true
+
+resume: /path/to/your/trained_checkpoint/
+output: ./exps/test/

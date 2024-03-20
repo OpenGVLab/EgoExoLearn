@@ -1,0 +1,80 @@
+data:
+  dataset: ourdata_egoexo
+  ego_root: /path/to/your/egodata/
+  exo_root: /path/to/your/exodata/
+  metapath: /path/to/your/annotation_folder/
+
+  ego_metadata: ${data.metapath}ego_train.csv
+  exo_metadata: ${data.metapath}exo_train.csv
+
+  clip_length: 4
+  input_size: 224
+  patch_size: 16
+  
+model:
+  ### this is for retriever ###
+  name: CLIP_OPENAI_TIMESFORMER_BASE
+  norm_embed: true
+  clip_length: ${data.clip_length}
+  load_visual_pretrained: true
+  pretrained_visual_checkpoint: null
+  project_embed_dim: 256
+  use_cls_token: false
+  contrastive_use_vissl: true
+  timesformer_gated_xattn: false 
+  timesformer_freeze_space: false
+  drop_path_rate: 0.0
+  temperature_init: 0.07
+  freeze_temperature: false
+
+train:
+  batch_size: 64
+  epochs: 5
+  warmup_epochs: 1
+  lr: 3e-5
+  fix_lr: true
+  lr_start: 1e-6
+  lr_end: 1e-5
+  clip_grad_type: norm   #[norm, value]
+  clip_grad_value: null
+  update_freq: 1
+  seed: 0
+  workers: 10
+
+  optimizer:
+    wd: 0.01
+    betas: [0.9, 0.999]
+    eps: 1e-8
+
+  eval_freq: 99
+  eval_in_middle_freq: -1
+  print_freq: 10
+  save_freq: 1
+  disable_amp: false
+  use_zero: false
+  use_checkpoint: false
+  use_half: false
+  find_unused_parameters: false
+
+test:
+  batch_size: 8
+  workers: 10
+  testonly: false
+  savemetaonly: false
+
+  ourdata:
+    ego_root: ${data.ego_root}
+    exo_root: ${data.exo_root}
+    metadata: ${data.metapath}association_val_hard.json
+
+    clip_length: ${data.clip_length}
+    num_clips: 1
+    num_crops: 1
+    sparse_sample: false
+    use_feature: false
+    ctx_length: 77
+
+wandb: false
+resume: null
+output: ./exps/default/
+local_rank: 0

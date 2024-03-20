@@ -1,0 +1,18 @@
+_base_: './our_default.yml'
+data:
+  dataset: ourdata_exo
+  clip_length: 4
+  
+model:
+  name: CLIP_OPENAI_TIMESFORMER_BASE
+  pretrained_visual_checkpoint: null
+  project_embed_dim: 256
+
+train:
+  batch_size: 64
+
+test:
+  testonly: false
+
+resume: null
+output: ./exps/train_exoonly_debug/
