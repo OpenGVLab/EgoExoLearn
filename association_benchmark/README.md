@@ -67,4 +67,4 @@ python main.py --config ./configs/test.yml
 ## Acknowledgement
 
 The codebase is based on [LaVILA](https://github.com/facebookresearch/LaViLa).
-We thanks the authors for their efforts.
+We thank the authors for their efforts.
