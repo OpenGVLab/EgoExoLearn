@@ -5,7 +5,7 @@ This repository contains the data and benchmark code of the following paper:
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)]()
-[![Project Page](https://img.shields.io/badge/Homepage-Website-green)]()
+[![Project Page](https://img.shields.io/badge/Homepage-Website-green)](https://egoexolearn.github.io/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)]()
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)]()
 
