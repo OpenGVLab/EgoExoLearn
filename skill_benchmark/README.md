@@ -34,7 +34,7 @@ Note that the IDs in this action list is irrelevant to any other parts of the da
 ```python train.py```
 
 ## Data
-Please download the extracted i3d features for Cross-view Referenced Skill Assessment in EgoExoLearn.
+Please download the extracted i3d features for Cross-view Referenced Skill Assessment form this [Google Drive link](https://drive.google.com/file/d/1O33TjyrIWYBXuTgoUb8HFdLjG2AMr-p9/view?usp=drive_link).
 
 ## Acknowledgement
 This code is based on [RAAN](https://github.com/hazeld/rank-aware-attention-network).

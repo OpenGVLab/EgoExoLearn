@@ -53,5 +53,7 @@ We hope our dataset can provide resources for future work for bridging asynchron
 
 If you have any questions, feel free to contact Yifei Huang by email (hyf <.at.> iis.u-tokyo.ac.jp).
 
-Led by Shanghai AI Laboratory, this project is jointly accomplished by talented researchers from multiple institutes including The University of Tokyo, Fudan University, Zhejiang University, University of Science and Technology of China, Nanjing University and Shenzhen Institute of Advanced Technology. This project is wouldn't be possible without the following open-sourced repositories:
+Led by Shanghai AI Laboratory, this project is jointly accomplished by talented researchers from multiple institutes including The University of Tokyo, Fudan University, Zhejiang University, University of Science and Technology of China, Nanjing University and Shenzhen Institute of Advanced Technology. 
+
+This project is wouldn't be possible without the following open-sourced repositories:
 [LaVILA](https://github.com/facebookresearch/LaViLa), [RAAN](https://github.com/hazeld/rank-aware-attention-network).
