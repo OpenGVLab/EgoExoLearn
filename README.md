@@ -10,9 +10,8 @@ This repository contains the data and benchmark code of the following paper:
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)]()
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)]()
 
-## News <a name="news"></a>
+## :fire: News <a name="news"></a>
 
-- :fire: EgoExoLearn dataset is released. We will provide benchmark codes and annotations accordingly.
 - `[2024/03]` EgoExoLearn [paper](https://arxiv.org/abs/2403.16182) released.
 - `[2024/03]` Annotation and code for the [cross-view association](./association_benchmark/) and [cross-view referenced skill assessment](./skill_benchmark/) benchmarks are released.
 - `[2024/03]` EgoExoLearn code and [data](#data) initially released.
@@ -31,7 +30,7 @@ Each benchmark is meticulously defined, annotated, and supported by baseline imp
 We hope our dataset can provide resources for future work for bridging asynchronous procedural actions in ego- and exo-centric perspectives, thereby inspiring the design of AI agents adept at learning from real-world human demonstrations and mapping the procedural actions into robot-centric views. 
 
 ## :bookmark_tabs: Data access <a name="data"></a>
-### Google Drive links
+### Option 1: Google Drive links
 [Videos (320p, mp4)](https://drive.google.com/file/d/13L0VsE-qYgeqVVdBW_Yb3qKSAD9ucNfs/view?usp=drive_link)
 
 [Gaze (processed, npy)](https://drive.google.com/file/d/19TAsggbhM9NeUKF9rxZnsTC7z4m8egw8/view?usp=drive_link)
