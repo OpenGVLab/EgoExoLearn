@@ -2,12 +2,20 @@
 This repository contains the data and benchmark code of the following paper:
 > **EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World**<br>
 > [Yifei Huang](https://hyf015.github.io/), [Guo Chen](https://scholar.google.com/citations?user=lRj3moAAAAAJ), [Jilan Xu](https://scholar.google.com/citations?user=mf2U64IAAAAJ), [Mingfang Zhang](https://scholar.google.com/citations?user=KnQO5GcAAAAJ), [Lijin Yang](), [Baoqi Pei](), [Hongjie Zhang](https://scholar.google.com/citations?user=Zl_2sZYAAAAJ),  [Lu Dong](), [Yali Wang](https://scholar.google.com/citations?hl=en&user=hD948dkAAAAJ), [Limin Wang](https://wanglimin.github.io), [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html)<br>
-> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+> IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024<br>
+> Presented by [OpenGVLab](https://github.com/OpenGVLab) in Shanghai AI Lab<br>
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.16182)
 [![Project Page](https://img.shields.io/badge/Homepage-Website-green)](https://egoexolearn.github.io/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)]()
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)]()
+
+## News <a name="news"></a>
+
+- :fire: EgoExoLearn dataset is released. We will provide benchmark codes and annotations accordingly.
+- `[2024/03]` EgoExoLearn [paper](https://arxiv.org/abs/2403.16182) released.
+- `[2024/03]` Annotation and code for the [cross-view association](./association_benchmark/) and [cross-view referenced skill assessment](./skill_benchmark/) benchmarks are released.
+- `[2024/03]` EgoExoLearn code and [data](#data) initially released.
 
 ## :mega: Overview
 ![overall_structure](./asset/teaser.png)
@@ -22,7 +30,7 @@ We design benchmarks of 1) [cross-view association](./association_benchmark/), 2
 Each benchmark is meticulously defined, annotated, and supported by baseline implementations. In addition, we pioneeringly explore the role of gaze in these tasks.
 We hope our dataset can provide resources for future work for bridging asynchronous procedural actions in ego- and exo-centric perspectives, thereby inspiring the design of AI agents adept at learning from real-world human demonstrations and mapping the procedural actions into robot-centric views. 
 
-## :bookmark_tabs: Data access
+## :bookmark_tabs: Data access <a name="data"></a>
 ### Google Drive links
 [Videos (320p, mp4)](https://drive.google.com/file/d/13L0VsE-qYgeqVVdBW_Yb3qKSAD9ucNfs/view?usp=drive_link)
 
@@ -51,9 +59,6 @@ We hope our dataset can provide resources for future work for bridging asynchron
 
    ## :hearts: Acknowledgement
 
-If you have any questions, feel free to contact Yifei Huang by email (hyf <.at.> iis.u-tokyo.ac.jp).
-
 Led by Shanghai AI Laboratory, Nanjing University and Shenzhen Institute of Advanced Technology, this project is jointly accomplished by talented researchers from multiple institutes including The University of Tokyo, Fudan University, Zhejiang University, and University of Science and Technology of China. 
 
-This project is wouldn't be possible without the following open-sourced repositories:
-[LaVILA](https://github.com/facebookresearch/LaViLa), [RAAN](https://github.com/hazeld/rank-aware-attention-network).
+:mailbox_with_mail: Primary contact: [Yifei Huang]((https://hyf015.github.io/)) ( hyf at iis.u-tokyo.ac.jp ) 
