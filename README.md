@@ -4,7 +4,7 @@ This repository contains the data and benchmark code of the following paper:
 > [Yifei Huang](https://hyf015.github.io/), [Guo Chen](https://scholar.google.com/citations?user=lRj3moAAAAAJ), [Jilan Xu](https://scholar.google.com/citations?user=mf2U64IAAAAJ), [Mingfang Zhang](https://scholar.google.com/citations?user=KnQO5GcAAAAJ), [Lijin Yang](), [Baoqi Pei](), [Hongjie Zhang](https://scholar.google.com/citations?user=Zl_2sZYAAAAJ),  [Lu Dong](), [Yali Wang](https://scholar.google.com/citations?hl=en&user=hD948dkAAAAJ), [Limin Wang](https://wanglimin.github.io), [Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/index.html)<br>
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)]()
+[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.16182)
 [![Project Page](https://img.shields.io/badge/Homepage-Website-green)](https://egoexolearn.github.io/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)]()
 [![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)]()
@@ -53,5 +53,5 @@ We hope our dataset can provide resources for future work for bridging asynchron
 
 If you have any questions, feel free to contact Yifei Huang by email (hyf <.at.> iis.u-tokyo.ac.jp).
 
-This project wouldn't be possible without the following open-sourced repositories:
+Led by Shanghai AI Laboratory, this project is jointly accomplished by talented researchers from multiple institutes including The University of Tokyo, Fudan University, Zhejiang University, University of Science and Technology of China, Nanjing University and Shenzhen Institute of Advanced Technology. This project is wouldn't be possible without the following open-sourced repositories:
 [LaVILA](https://github.com/facebookresearch/LaViLa), [RAAN](https://github.com/hazeld/rank-aware-attention-network).
