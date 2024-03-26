@@ -16,7 +16,7 @@ We propose **EgoExoLearn**, a dataset that emulates the human demonstration foll
 ## :mortar_board: Benchmarks
 ![benchmarks](./asset/benchmarks.png)
 
-Please visit each subfolder for code and annotations.
+Please visit each subfolder for code and annotations. More updates coming soon.
 
 We design benchmarks of 1) [cross-view association](./association_benchmark/), 2) cross-view action understanding ([action segmentation](./temporal_action_segmentation/), [action ancitipation](./action_anticipation_planning/), [action planning](./action_anticipation_planning)), 3) [cross-view referenced skill assessment](./skill_benchmark/), and 4) [cross-view referenced video captioning]().
 Each benchmark is meticulously defined, annotated, and supported by baseline implementations. In addition, we pioneeringly explore the role of gaze in these tasks.
