@@ -24,4 +24,4 @@ Annotations of the fine-level actions are released.
 
 `narration_noun_taxonomy.csv` and `narration_verb_taxonomy.csv`: We use these taxonomy to extract verb and noun IDs in the action anticipation and planning benchmarks.
 
-:mailbox_with_mail: For any questions, please contact: [Yifei Huang]((https://hyf015.github.io/)) ( hyf at iis.u-tokyo.ac.jp ) 
+:mailbox_with_mail: For any questions, please contact: [Yifei Huang](https://hyf015.github.io/) ( hyf at iis.u-tokyo.ac.jp ) 

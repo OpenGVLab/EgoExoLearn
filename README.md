@@ -61,4 +61,4 @@ We hope our dataset can provide resources for future work for bridging asynchron
 
 Led by Shanghai AI Laboratory, Nanjing University and Shenzhen Institute of Advanced Technology, this project is jointly accomplished by talented researchers from multiple institutes including The University of Tokyo, Fudan University, Zhejiang University, and University of Science and Technology of China. 
 
-:mailbox_with_mail: Primary contact: [Yifei Huang]((https://hyf015.github.io/)) ( hyf at iis.u-tokyo.ac.jp ) 
+:mailbox_with_mail: Primary contact: [Yifei Huang](https://hyf015.github.io/) ( hyf at iis.u-tokyo.ac.jp ) 
