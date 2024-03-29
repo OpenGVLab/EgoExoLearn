@@ -14,10 +14,19 @@ The annotations of action anticipation and planning are at [./tas_annotation](./
 
 ## Usage
 
-All scripts of domain adaption and zero-shot settings are at [./scripts](./scripts/). 
-For each script file, you should modify the `path_data` and `path_feat` to your folder. 
-We use `training`, `predict` or `eval` to control the behavior of scripts.
 
+All scripts of domain adaption and zero-shot settings are at [./scripts](./scripts/). 
+In order to launch one script to train the test the model, firstly, you should modify the `path_data` and `path_feat` to your folder. 
+
+> We use `training`, `predict` or `eval` to control the behavior of scripts.
+
+After that, you can launch one script through the following command example:
+
+```bash
+bash scripts/run_egobridge_baseline_ego_only.sh
+```
+
+It will train the temporal aciton segmentation model on ego-only view. So will other scripts.
 
 ---
 ### Acknowledgments
