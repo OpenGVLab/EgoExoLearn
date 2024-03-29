@@ -1,0 +1,628 @@
+label,group
+ambulance,['ambulance']
+apple,['apple']
+apron,"['apron', 'drill bit', 'welding machine']"
+arm,['arm']
+"artwork_(art,_draw,_drawing,_painting,_sketch)","['art', 'artwork', 'draw', 'drawing', 'flower art', 'painting', 'sketch', 'watercolor']"
+asparagus,['asparagus']
+avocado,['avocado']
+awl,"['awl', 'chili peppers', 'stitching awl', 'stitching owl']"
+axe,"['axe', 'mattock', 'mattock tool']"
+baby,['baby']
+back,['back']
+bacon,['bacon']
+"bag_(bag,_grocery,_nylon,_polythene,_pouch,_sachet,_sack,_suitcase)","['bag', 'bag of manure', 'grocery', 'litter bag', 'nylon', 'nylon bag', 'nylon storage pack', 'paper bag', 'paper cover', 'paper packet', 'paperbag', 'plastic', 'plastic bag', 'polythene', 'polythene bag', 'pouch', 'sachet', 'sachet of #unsure', 'sachet of meat', 'sachet of wipe', 'sachet piece', 'sack', 'satchet', 'shopping bag', 'suitcase']"
+baking_soda,"['baking_soda', 'soda','alkali']"
+"ball_(ball,_baseball,_basketball)","['ball', 'baseball', 'basketball', 'cricket ball', 'golf ball']"
+ball_bearing,"['ball_bearing', 'wheel bearing']"
+balloon,['balloon']
+bamboo,['bamboo']
+"banana_(banana,_plantain)","['banana', 'plantain']"
+bandage,['bandage']
+bar,"['bar', 'ripping bar']"
+baseboard,['baseboard']
+basket,['basket']
+bat_(sports),['bat']
+bat_(tool),"['bat', 'robot']"
+bathtub,['bathtub']
+baton,['baton']
+"batter_(batter,_mixture)","['batter', 'mixture']"
+battery,['battery']
+bead,['bead']
+beaker,['beaker']
+bean,"['bean', 'french beans']"
+bed,"['bed', 'crib']"
+belt,['belt']
+bench,"['bench', 'wooden bench']"
+berry,"['berry', 'blue berries', 'blue berry', ""blue berry's"", 'blueberry']"
+"beverage_(drink,_juice,_beer,_beverage,_champagne)","['beer', 'beverage', 'champagne', 'cocktail', 'drink', 'juice', 'soda can', 'tomato juice']"
+"bicycle_(bicycle,_bike)","['bell', 'bicycle', 'bicycle handle', 'bicycle rim', 'bicycle seat', ""bicycle's rim"", 'bike', 'bike seat cover']"
+bird,['bird']
+"blanket_(bedsheet,_blanket,_duvet)","['bedsheet', 'blanket', 'duvet']"
+blender,['blender']
+block_(material),"['block', 'concrete block', 'material', 'sanding block', 'tapping block']"
+blower,"['air blow gun', 'air pressure', 'blow gun', 'blower', 'leaf blower']"
+boar,['boar']
+boat,['boat']
+bolt_extractor,['bolt_extractor']
+"book_(book,_booklet,_magazine,_manual,_notebook,_novel,_page,_textbook)","['book', 'booklet', 'drawing book', 'ink pad', 'magazine', 'manual', 'music book', 'notebook', 'novel', 'page', 'sketch pad', 'textbook']"
+bookcase,['bookcase']
+"bottle_(bottle,_flask)","['bottle', 'bottle of mustard', 'flask', 'foam cleaner', 'sanitizer', 'squeeze bottle', 'tea urn', 'water bottle']"
+bowl,"['bow', 'bowl', 'float bowl', 'green bowl', 'set of bowls', 'sieve bowl', 'stainless bowl']"
+"bracelet_(bangle,_bracelet)","['bangle', 'bracelet']"
+"brake_(brake,_break)","['brake', 'brake caliper', 'brake caliper mount', 'brake caliper mounting', 'brake caliper mounting bracket', 'brake component', 'brake hose', 'brake shoe', 'brake shoe pack', 'braking system', 'break', 'car break']"
+brake_pad,['brake_pad']
+branch,"['branch', 'fence branches', 'tree brunch']"
+"bread_(bread,_bun,_chapati,_flatbread,_loaf,_roti,_tortilla)","['bread', 'bread bag', 'bread crumbs', 'bread crumps', 'bun', 'chapati', 'flatbread', 'loaf', 'roti', 'tortilla']"
+brick,"['brick', 'brick mould']"
+broccoli,['broccoli']
+"broom_(broom,_broomstick)","['broom', 'broomstick', 'japanese bamboo broom']"
+brownie,['brownie']
+brush,"['brush', 'dish brush', 'glue brush', 'nail polish brush', 'polish brush']"
+bubble_gum,['bubble gum']
+bucket,"['blue bucket', 'bucket', 'bucket handle', 'green bucket', 'paint bucket']"
+buckle,"['buckle', 'fasten']"
+burger,['burger']
+burrito,['burrito']
+butter,['butter']
+butterfly,['butterfly']
+button,['button']
+cabbage,['cabbage']
+"cabinet_(cabinet,_compartment,_cupboard)","['cabinet', 'cabinet door', 'compartment', 'cup', 'cupboard', 'glove compartment', 'kitchen cabinet', 'wardrobe', 'wardrobe door']"
+cake,['cake']
+calculator,['calculator']
+caliper,['caliper']
+camera,"['camera', 'polaroid camera']"
+can_opener,['can_opener']
+candle,['candle']
+candy,['candy']
+canvas,['canvas']
+"car_(car,_vehicle)","['car', 'car boot', 'car door', 'car light', 'car part', 'car seat', 'car windscreen', 'dashboar', 'hand brake', 'vehicle']"
+card,['card']
+"cardboard_(cardboard,_paperboard)","['board', 'cardboard', 'cardboard box', 'paperboard', 'yellow cardboard']"
+carpet,['carpet']
+carrot,"['carrot', 'carrot peel', 'carrot tail']"
+"cart_(cart,_trolley)","['cart', 'electric chair trolley', 'trolley']"
+cash_register,['cash_register']
+cassava,['cassava']
+cat,['cat']
+ceiling,['ceiling']
+celery,['celery']
+cello,['cello']
+"cement_(cement,_concrete,_mortar)","['cement', 'clay', 'concrete', 'concrete structure', 'mortar', 'motar']"
+cereal,"['cereal', 'set of cereal']"
+chaff,"['chaff', 'set of chaff']"
+chain,"['bicycle chain', 'chain', 'chain set', 'chainring']"
+chair,"['car seat', 'chair', 'seat']"
+chalk,['chalk']
+chameleon,['chameleon']
+cheese,['cheese']
+cherry,['cherry']
+chicken,['chicken']
+chin,['chin']
+chip_(food),"['chip', 'chocolate chips']"
+"chip_(wood,_metal)","['chip', 'metal', 'wood']"
+chisel,['chisel']
+chocolate,['chocolate']
+chopping_board,"['chop board', 'chopping board', 'chopping_board', 'cutting board']"
+chopstick,['chopstick']
+"cigarette_(cigarette,_vape)","['cigar', 'cigarette', 'vape']"
+circuit,"['circuit', 'circuit board', 'circuit breaker']"
+clam,"['clam','scallop']"
+clamp,"['bench clamp', 'clamp', 'horse clip', 'hose clip']"
+clarinet,['clarinet']
+clay,"['box of clay', 'clay', 'clay box', 'clay mixture', 'molding clay', 'moulded clay', 'small clay', 'wet clay']"
+clip,"['cable clip', 'carabiner', 'clip']"
+clock,['clock']
+"cloth_(cloth,_fabric,_garment,_kanga,_rag)","['black cloth', 'cloth', 'clothe', 'clothing material', 'cotton', 'cotton bud', 'cotton yarn', 'crochet pattern', 'cuff of shirt', 'cutting model', 'dashboard', 'fabric', 'garment', 'kanga', 'piece of cloth', 'pillow case', 'pillow cover', 'pillow garment', 'rag', 't shirt sleeve', 'table cloth', 'table cover', 'white cloth','dishcloth']"
+coaster,['coaster']
+cocoa,['cocoa']
+coconut,['coconut']
+coffee,['coffee']
+coffee_machine,['coffee maker']
+colander,['colander']
+comb,['comb']
+compass,['compass']
+"computer_(computer,_ipad,_laptop,_motherboard,_screen)","['black terminal', 'computer', 'desktop', 'ipad', 'laptop', 'motherboard', 'screen']"
+"container_(box,_can,_carton,_case,_casing,_container,_crate,_holder,_jar,_jerrycan,_keg,_pack,_package,_packaging,_packet,_storage,_tank,_tin)","['adhesive container', 'air freshener', 'barrel', 'belt holder', 'box', 'brick box', 'can', 'can of gaming gear cleaner', 'cannister', 'carton', 'case', 'casing', 'clay box', 'container', 'crate', 'food sachet', 'fuel tank', 'gas cylinder', 'gas tank', 'glass holder', 'glass plate', 'holder', 'honey', 'iron box', 'ironbox', 'jar', 'jerrycan', 'keg', 'lentil packet', 'oil container', 'pack', 'package', 'packaging', 'packet', 'paint can', 'paint container', 'petroleum jerrycan', 'plastic cage', 'plastic container', 'plastic storage', 'storage', 'storage can', 'storage container', 'storage dish', 'tank', 'tin', 'unsure', 'watering can', 'wooden box']"
+cooker,"['cooker', 'gas cooker', 'pressure cooker', 'rice cooker']"
+cookie,['cookie']
+cork,['cork']
+corn,"['corn', 'slab of corn']"
+corner,['corner']
+"countertop_(counter,_countertop)","['counter', 'countertop']"
+courgette,['courgette']
+cow,['cow']
+crab,['crab']
+"cracker_(biscuit,_cracker)","['biscuit', 'cracker']"
+crayon,['crayon']
+cream,['cream']
+crochet,['crochet']
+crocodile,['crocodile']
+crowbar,['crowbar']
+cucumber,['cucumber']
+"cup_(cup,_mug,_tumbler)","['blender cup', 'cup', 'mini cup', 'mug', 'tumbler', 'unsure']"
+cupcake,['cupcake']
+curtain,"['curtain', 'shower curtain']"
+cushion,['cushion']
+cutter_(tool),"['blade', 'box cutter', 'brush cutter', 'cutter', 'dough cutter', 'grass cutter', 'shaver', 'shaving machine', 'wire cutter', 'woodcutter']"
+"decoration_(decoration,_ornament)","['bauble', 'decoration', 'ornament', 'pattern']"
+derailleur,"['derailleur', 'rear derailleur']"
+detergent,['detergent']
+"dice_(dice,_die)","['dice', 'die']"
+dinosaur,['dinosaur']
+dishwasher,"['dishwasher', 'washer']"
+dog,"['dog', 'dog leg', 'puppy']"
+door,"['car door', 'door', 'door frame', 'door handle', 'doorframe', 'frame door', 'shower screen']"
+doorbell,['doorbell']
+dough,"['dough', 'dough strip', 'dough strips', 'molded dough', 'tray of dough']"
+dough_mixer,"['dough machine', 'dough mixer']"
+doughnut,['doughnut']
+drawer,"['drawer', 'freezer', 'ra', 'side drawer']"
+dress,"['dress', 'gown']"
+"drill_(drill,_driller)","['drill', 'driller', 'electric screw driver', 'hand drill', 'power drill', 'rust remover drill']"
+drill_bit,"['drill power', 'drill_bit']"
+drone,['drone']
+drum,['drum']
+dumbbell,"['barbell', 'dumbbell', 'dumbell']"
+"dust_(dust,_sawdust)","['dust', 'sawdust']"
+duster,['duster']
+dustpan,['dustpan']
+ear,['ear']
+earplug,['earplug']
+egg,['egg']
+eggplant,['eggplant']
+elbow,['elbow']
+elevator,['elevator']
+"engine_(assembly,_carburetor,_engine,_motor)","['assembly', 'blender engine', 'caburator', 'carburetor', 'carburetor bowl', 'carburetor pump', 'choke shutter', 'engine', 'engine mount', 'engine part', 'motor', 'mower carburetor']"
+"envelope_(envelop,_envelope)","['envelop', 'envelope']"
+"eraser_(eraser,_rubber)","['eraser', 'rubber']"
+eye,['eye']
+face,['face']
+facemask,['facemask']
+fan,['fan']
+"faucet_(faucet,_tap)","['faucet', 'sink faucet', 'spout', 'tap']"
+fence,"['fence', 'rip fence']"
+file_(tool),"['file', 'filer', 'filter cloth', 'nail', 'nail file']"
+filler,['filler']
+filter,['filter']
+fire,"['fire','flame']"
+fireworks,['fireworks']
+fish,"['fish', 'fish fillet']"
+fishing_rod,"['fishing rod', 'fishing rod holder']"
+flash_drive,['flash_drive']
+"floor_(floor,_ground)","['compound', 'floor', 'ground', 'land', 'surface', 'wood floor', 'wooden floor', 'wooden floor board']"
+flour,"['bean flour', 'flour', 'flour pack']"
+flower,"['flower', 'low', 'petunia', 'pink petunia', 'purple petunia']"
+flute,['flute']
+foam,"['door protector', 'foam']"
+foil,['foil']
+food,"['food', 'food pack', 'livestock feed', 'stew']"
+"foot_(foot,_toe)","['foot', 'toe', 'toe nail']"
+fork,"['fork', 'plate']"
+fox,['fox']
+"fridge_(fridge,_refrigerator)","['freezer', 'fridge', 'fridge shelf', 'fridge tray', 'refrigerator', 'refrigerator door']"
+fries,['fries']
+frog,['frog']
+fuel,['fuel']
+funnel,['funnel']
+game_controller,"['game controller', 'gamepad', 'gaming controller']"
+"garbage_can_(bin,_dustbin)","['bin', 'dustbin', 'garbage_can', 'litter bin', 'trash bin', 'trash can']"
+garlic,"['fruit', 'garlic','garlic clove']"
+gasket,"['elring', 'gasket']"
+gate,['gate']
+gauge,"['gauge', 'pressure gauge']"
+gauze,"['gauze', 'wire gauze']"
+gear,"['gear', 'gear area']"
+generator,"['alternator', 'alternator freewheel clutch', 'generator']"
+ginger,['ginger']
+glass,"['colourless glass', 'glass', 'refrigerator glass', 'refrigerator glass shelf']"
+"glasses_(goggle,_shade,_spectacle,_sunglass)","['glasses', 'goggle', 'goggle swim', 'google swim', 'shade', 'spectacle', 'sunglass']"
+glove,['glove']
+"glue_(adhesive,_glue,_gum,_sealant)","['adhesive', 'glue', 'gum', 'sealant']"
+glue_gun,"['glue gun', 'glue_gun']"
+goat,['goat']
+golf_club,"['golf', 'golf stick', 'golf_club']"
+gourd,"['bottle gourd', 'gourd']"
+grain,['grain']
+grape,['grape']
+grapefruit,['grapefruit']
+grass,"['dried grass', 'grass']"
+grater,"['cooking grate', 'grater']"
+grill,"['grill', 'toast grill']"
+grinder,"['angle grinder', 'garlic grinder', 'grinder', 'grinding tool']"
+guava,['guava']
+guitar,"['guitar', 'ukulele']"
+hair,['hair']
+"hammer_(hammer,_mallet)","['hammer', 'mallet', 'nut cracker', 'nutcracker', 'steel tube']"
+"hand_(finger,_hand,_palm,_thumb)","['finger', 'hand', 'left hand', 'palm', 'thumb']"
+handle,['handle']
+hanger,['hanger']
+harp,['harp']
+hat,"['bonnet', 'hat']"
+hay,"['hay', 'hay bale']"
+haystack,['haystack']
+head,['head']
+"headphones_(earphone,_headphone)","['earphone', 'headphone', 'headphones']"
+heater,['heater']
+helmet,['helmet']
+hinge,['hinge']
+hole,['hole']
+horse,['horse']
+hose,"['hose', 'hose mouth', 'hose pipe', 'pressure hose', 'pumping hose', 'sprinkler hose', 'water hose']"
+hotdog,['hotdog']
+house,['house']
+ice,"['ice', 'ice cube', 'ice cubes', 'ice_tray']"
+ice_cream,['ice cream']
+inhaler,['inhaler']
+ink,['ink']
+iron,"['electric iron', 'iron', 'iron box', 'ironing board', 'pressing iron', 'steam iron']"
+"jack_(tool)_(jack,_lift)","['jack', 'lift']"
+"jacket_(coat,_jacket)","['coat', 'jacket']"
+jug,['jug']
+juicer,['juicer']
+kale,['kale']
+ketchup,['ketchup']
+kettle,['kettle']
+key,"['bunch of key', 'key', 'key set']"
+keyboard,"['keyboard', 'laptop keyboard']"
+kiwi,['kiwi']
+"knife_(knife,_machete)","['knife', 'machete', 'marking knife', 'peeler knife', 'pen knife', 'spoon','cleaver']"
+"label_(label,_tag)","['label', 'tag']"
+ladder,['ladder']
+ladle,['ladle']
+lamb,['lamb']
+"leaf_(leaf,_leave)","['coriander', 'coriander leaf', 'dried leaves', 'leaf', 'leave', 'spinach leaves', 'withered leaves']"
+leash,"['dog leash', 'dog strap', 'leash']"
+leek,['leek']
+"leg_(knee,_leg,_thigh)","['knee', 'leg', 'thigh']"
+lemon,"['lemon', 'lemon strand']"
+lettuce,['lettuce']
+lever,"['lever', 'shift lever', 'shifter level', 'shifter lever', 'shifter lever covering']"
+"lid_(cap,_cover,_lid)","['blender cup', 'bottle', 'bottle lid', 'bottle top', 'cap', 'carburator bowl', 'carburetor bowl', 'clip art lid', 'cooking pot cover', 'cover', 'cover lid', 'cover pot', 'gas tank cover', 'gear stick', 'jug lid', 'lid', 'oil filler cap', 'pen lid', 'pot cover', 'tea urn lid', 'watercolor tube top','bottle cap']"
+"light_(bulb,_flashlight,_lamp,_light)","['back light', 'bulb', 'bulb holder', 'flashlight', 'lamp', 'light', 'work light']"
+lighter,"['lighter','ignition tool','ignition gun']"
+lime,['lime']
+lion,['lion']
+lock,"['bike lock', 'lock', 'padlock']"
+"lubricant_(grease,_lubricant)","['grease', 'lubricant']"
+"magnet_(magnet,_sphere)","['magnet', 'sphere']"
+mailbox,['mailbox']
+mango,['mango']
+mannequin,['mannequin']
+"manure_(dung,_manure)","['dung', 'manure']"
+marble,['marble']
+mask,['mask']
+"mat_(mat,_rug)","['car foot mat', 'car mat', 'door mat', 'floor mat', 'mat', 'rug', 'table mat']"
+matchstick,['matchstick']
+"meat_(beef,_ham,_meat)","['beef', 'ham', 'meat', 'meat ball', 'steak','pork belly','pork','tenderloin']"
+medicine,['medicine']
+melon,['melon']
+"metal_(lead,_metal,_steel)","['aluminum', 'lead', 'metal', 'metal strip', 'metallic frame', 'metallic object', 'steel', 'steel bar', 'steel panel', 'unsure']"
+microphone,['microphone']
+microscope,"['microscope', 'slide microscope']"
+microwave,['microwave']
+milk,['milk']
+mirror,['mirror']
+mixer,['mixer']
+"mold_(mold,_molder,_mould)","['block molder', 'block moulder', 'brick mold', 'brick molder', 'brick mould', 'brick moulder', 'brickmold', 'bricks mold', 'clay mold', 'clay mould', 'mold', 'molder', 'mould']"
+"money_(cash,_coin,_money)","['cash', 'coin', 'money']"
+mop,"['mop', 'mop stick']"
+"motorcycle_(motorbike,_motorcycle)","['motorbike', 'motorcycle', 'scooter']"
+mountain,['mountain']
+mouse_(computer),['mouse']
+mouth,['mouth']
+movie,['movie']
+"mower_(lawnmower,_mower)","['lawn', 'lawn mower', 'lawn trimmer', 'lawnmower', 'lawnmower basket', 'mower', 'part of lawn mower']"
+muffin,['muffin']
+multimeter,"['multi meter', 'multimeter terminals']"
+mushroom,"['mushroom','enoki','enoki mushroom','shiitake mushroom','shiitake']"
+nail_cutter,"['cuticle', 'cuticle nipper', 'cuticle pusher']"
+nail_gun,"['nail gun', 'nail_gun', 'staple gun']"
+nail_polish,"['nail polish', 'nail polish bottle']"
+"napkin_(handkerchief,_napkin,_serviette,_tissue,_wipe)","['ash napkin', 'hand', 'handkerchief', 'kitchen tissue', 'napkin', 'roll tissue', 'serviette', 'table cloth', 'tissue', 'tissue paper', 'wipe']"
+neck,['neck']
+necklace,['necklace']
+"needle_(hook,_needle)","['cobbler', 'crochet hook', 'crotchet hook', 'hook', 'metal hook', 'needle']"
+net,"['fish net', 'net']"
+nose,['nose']
+nozzle,['nozzle']
+nut_(food),"['almond', 'almonds', 'groundnut', 'nut', 'pecan', 'pecan nut', 'tropical almond', 'tropical almonds']"
+nut_(tool),"['nut', 'nut cracker']"
+octopus,['octopus']
+"oil_(fat,_oil)","['chili garlic oil', 'engine oil', 'fat', 'oil', 'oil container', 'oil drizzler', 'oil lubricant','rapeseed oil','sesame oil','lard']"
+okra,['okra']
+onion,"['onion', 'onion ring']"
+orange,['orange']
+oven,['oven']
+owl,['owl']
+oyster,['oyster']
+paddle,['paddle']
+paint,"['blue color', 'color', 'orange color', 'paint', 'paint box', 'paint tube', 'paint tubes', 'painting paste', 'paints art', 'watercolor tube']"
+paint_roller,"['paint roller', 'paint_roller', 'roller', 'roller brush']"
+paintbrush,"['paint', 'paint brush', 'paintbrush', 'painting brush', 'square wood']"
+palette,"['paint pallet', 'palate', 'palette', 'pallet']"
+pallet,['pallet']
+"pan_(frypan,_pan,_saucepan)","['bake pan', 'baking pan', 'cooking pan', 'frying pan', 'frypan', 'pan', 'saucepan', 'sheet pan', 'skillet']"
+pancake,['pancake']
+panel,"['control panel', 'panel']"
+"pants_(jean,_pant,_short,_trouser)","['jean', 'jean short', 'pan', 'pant', 'pants', 'short', 'trouser']"
+papaya,['papaya']
+"paper_(chart,_craft,_newspaper,_note,_paper,_papercraft,_poster,_receipt)","['baking paper', 'brown paper', 'chart', 'color papers', 'craft', 'imprinted manila paper', 'kraft paper sheet', 'lamination papers', 'love shaped manilla paper', 'manila paper', 'manila paper art', 'manilla paper', 'newspaper', 'note', 'paper', 'paper alphabet', 'paper towel', 'papercraft', 'piece of paper', 'plastic paper', 'poster', 'print', 'receipt', 'roll of papers', 'star cut paper', 'star shapped manilla', 'star shapped manilla paper', 'tracing paper', 'unsure', 'water color paper', 'yellow paper', 'yellow sheet']"
+"pasta_(noodle,_pasta,_spaghetti)","['noodle', 'noodle bunch', 'pasta', 'spaghetti']"
+paste,"['painting paste', 'paste']"
+pastry,['pastry']
+pea,['pea']
+peach,['peach']
+peanut,['peanut']
+pear,"['edge of avocado pear', 'pear']"
+pedal,"['bicycle pedal', 'pedal']"
+peel,"['baking peel', 'onion peel', 'peel']"
+peeler,['peeler']
+peg,['peg']
+"pen_(marker,_pen)","['color pen', 'drawing pen', 'electric stylo', 'marker', 'pen', 'stylus', 'stylus pen', 'unsure']"
+pencil,"['color pencil', 'color pencils', 'pencil']"
+"pepper_(vegetable)_(capsicum,_pepper)","['bell pepper', 'capsicum', 'chili pepper', 'chili peppers', 'chill pepper', 'chilli', 'chilli pepper', 'green chilies', 'green pepper', 'pepper','red pepper','green red pepper','jalapeno','jalapeno pepper','peppercorn']"
+"person_(herself,_himself,_lady,_man,_person,_shoulder,_they,_woman)","['herself', 'himself', 'lady', 'man', 'person', 'shoulder', 'they', 'woman']"
+"phone_(cellphone,_phone,_smartphone)","['cellphone', 'phone', 'smartphone']"
+photo,['photo']
+piano,['piano']
+pickle,['pickle']
+"picture_(picture,_portrait)","['picture', 'portrait']"
+pie,"['green pie', 'pie']"
+pig,['pig']
+pillow,['pillow']
+pilot_jet,['pilot jet']
+pin,['pin']
+pineapple,['pineapple']
+pipe,"['exhaust', 'hose pipe', 'pipe', 'rip pipe', 'steel tube', 'tube']"
+pipette,"['pipette','micropipette','pipettor']"
+pizza,['pizza']
+"planer_(plane,_planer)","['plane', 'planer', 'smoothing plane']"
+"plant_(bud,_frond,_plant,_reed,_seedling,_shrub,_stem,_vine,_weed)","['bud', 'bush', 'dry stem', 'farm', 'frond', 'hedge', 'plant', 'plant stem', 'plantation', 'reed', 'rice plant', 'rice plants', 'seedling', 'shrub', 'stem', 'stem of plants', 'thorn', 'vine', 'weed']"
+"plate_(dish,_plate,_platter,_saucer)","['24 wall plate', '24 well plate', 'breadcrumb', 'ceramic plate', 'dish', 'petri dish', 'plastic dish', 'plastic plate', 'plate', 'plate drainer guide', 'platter', 'porcelain', 'sample plate', 'saucer']"
+playing_cards,"['card', 'playing_cards']"
+plier,"['pli', 'plier']"
+plug,['plug']
+plum,['plum']
+plunger,['plunger']
+pole,['pole']
+popcorn,['popcorn']
+pot,"['cooking pot', 'pot', 'serving pot','wok']"
+pot_(planter),"['flower bed', 'flower pot', 'flower trough', 'planter', 'pot']"
+potato,"['potato', 'sweet potato']"
+printer,"['cartridge', 'printer']"
+pump,"['electric air pump', 'electric pump', 'pump', 'pump machine', 'pumping machine', 'tire pump machine', 'water pump']"
+pumpkin,['pumpkin']
+purse,['purse']
+putty,['putty']
+"puzzle_or_game_piece_(chess,_domino,_jenga,_jigsaw,_pawn,_puzzle)","['catan', 'chess', 'domino', 'jenga', 'jigsaw', 'lego', 'pawn', 'puzzle', 'puzzle_or_game_piece']"
+rabbit,['rabbit']
+rack,"['baking rake', 'clothe rack', 'dish holder', 'rack', 'wooden rack']"
+racket,['racket']
+radio,"['boom box', 'radio']"
+radish,['radish']
+"rail_(rail,_railing)","['banister', 'rail', 'railing', 'wooden hand rail', 'wooden rail', 'wooden stair rail']"
+rake,"['bull float', 'rake']"
+ratchet,['ratchet']
+razor_blade,"['blade', 'blender blade', 'extraction blade', 'extractor blade', 'razor_blade', 'shaving machine']"
+"remote_control_(control,_remote)","['control', 'controller', 'novation launch control', 'remote', 'remote_control']"
+rice,"['rice', 'rice bran']"
+ring,['ring']
+road,['road']
+"rod_(dipstick,_rod,_rod_metal,_shaft)","['dipstick', 'iron rod', 'metal hook', 'metal rod', 'part of ward', 'rod', 'rod_metal', 'shaft', 'steel rod', 'tire iron','pushrod']"
+rolling_pin,"['dough roller', 'rolling pin', 'wooden rolling pin']"
+root,['root']
+rope,['rope']
+router,['router']
+rubber_band,"['rub', 'rubber band', 'rubber_band']"
+"ruler_(rule,_ruler)","['meter rule', 'rule', 'ruler']"
+salad,['salad']
+sand,"['sand', 'sand container']"
+sander,"['electric sander', 'sander', 'sanding block', 'sanding machine', 'sandpaper machine', 'wood sander']"
+sandpaper,"['machine', 'sandpaper']"
+sandwich,['sandwich']
+sauce,['sandwich']
+sausage,['sausage']
+"saw_(chainsaw,_saw,_hacksaw)","['chainsaw', 'hacksaw', 'rotate saw', 'saw', 'see', 'table saw', 'table saw pusher']"
+scaffold,['scaffold']
+scarecrow,['scarecrow']
+"scarf_(scarf,_shawl)","['scarf', 'shawl']"
+scissors,"['scissor', 'scissors']"
+"scoop_(scoop,_scooper)","['scoop', 'scooper']"
+scooter,"['bike part', 'scooter']"
+"scraper_(scraper,_scrapper)","['dough scraper', 'pastry scraper', 'scraper', 'scraping blade', 'scrapper']"
+"screw_(bolt,_nail,_screw)","['bolt', 'bolt bit', 'bolt driver', 'bolt tighter', 'bolt washer', 'nail', 'nail bag', 'nut bolt', 'screw']"
+screwdriver,"['barrel', 'bolt driver', 'bolt remover', 'driver', 'electric screw driver', 'nut driver', 'screw', 'screw driver', 'screwdriver', 'shifter lever covering']"
+sculpture,['sculpture']
+"seasoning_(salt,_seasoning,_shaker,_spice,_sugar)","['salt', 'salt container', 'season', 'seasoning', 'shaker', 'spice', 'sugar','chicken essence','MSG','monosodium glutamate','chicken powder','chili powder','pepper powder','five-spice powder','thirteen-spice powder','Thirteen spices powder','thirteen spice','thirteen spices','fresh flavor powder','soy sauce','doubanjiang','Doubanjiang','Dou ban jiang']"
+seed,"['pumpkin seeds', 'see', 'seed', 'seeds and stalk']"
+set_square_(tool),['set_square']
+sewing_machine,['sewing machine']
+sharpener,['sharpener']
+shears,"['hedge shear', 'pruning sheer', 'shears']"
+sheet,"['acrylic sheet', 'acrylic sheets', 'crylic sheet', 'pastry sheet', 'sheet', 'white sheet']"
+shelf,"['glass shelf', 'refrigerator glass shelf', 'shelf']"
+"shell_(egg_shell,_shell_egg)","['egg_shell', 'shell', 'shell_egg']"
+"shirt_(cardigan,_shirt,_sweater,_sweatshirt,_top)","['blouse', 'cardigan', 'polo', 'polo shirt', 'red polo shirt', 'shirt', 'shirt cuff', 'sleeve', 'sleeve tee', 'sweater', 'sweatshirt', 't-shirt', 'top', 'white round neck']"
+"shoe_(boot,_sandal,_shoe,_slipper)","['boot', 'sandal', 'shoe', 'shoe lace', 'slipper']"
+"shovel_(hoe,_shovel,_spade)","['fry shovel', 'hoe', 'mattock', 'push hoe', 'shovel', 'spade']"
+shower_head,['shower head']
+shrimp,['shrimp']
+sickle,['sickle']
+"sieve_(sieve,_strainer)","['bowl strainer', 'sieve', 'siever', 'strainer']"
+"sink_(basin,_sink)","['basin', 'sink']"
+sketch_pad,['sketch_pad']
+ski,['ski']
+skirt,['skirt']
+slab,['slab']
+sledge,['sledge']
+sleeping_bag,['sleeping_bag']
+snail,['snail']
+snorkel,['snorkel']
+soap,"['bottle of soap', 'cleaner bottle', 'cleanser', 'cleanser container', 'liquid soap', 'liquid wash', 'sanitizer', 'soap', 'soap container']"
+sock,['sock']
+socket,['socket']
+sofa,['sofa']
+"soil_(dirt,_mud,_soil)","['dirt', 'mud', 'soil', 'soil clump', 'soil sack']"
+solder_iron,"['solder iron', 'soldering iron']"
+soup,"['soup', 'stew']"
+spacer,['spacer']
+spanner,['spanner']
+spatula,"['cooker', 'fry pan flipper', 'spatula']"
+speaker,['speaker']
+sphygmomanometer,"['sphygmomanometer', 'sphygmomanometer pack']"
+spice,['spice']
+spinach,"['spinach', 'spinach bundles', 'spinach leave', 'spinach leaves']"
+spirit_level,"['adjuster level', 'spirit_level']"
+"sponge_(scrubber,_sponge)","['scouring pad', 'scrubber', 'sponge', 'sponge foam', 'steel scourer']"
+"spoon_(spoon,_spoonful)","['cooking spoon', 'cooking stick', 'pumpkin seeds', 'slotted turner', 'spatula', 'spoon', 'spoonful', 'stainer spoon', 'stainless spoon', 'strainer spoon', 'wooden spoon','teaspoon']"
+"spray_(spray,_sprayer)","['fungicide', 'penetrant spray', 'pesticide', 'spray', 'spray bottle', 'spray gun', 'spray nozzle', 'sprayer']"
+spring,"['anti-after fire solenoid', 'spring']"
+squash,['squash']
+squeezer,"['lime squeezer', 'squeezer']"
+squid,['squid']
+squirrel,['squirrel']
+"stairs_(stair,_staircase)","['stair', 'stair railings', 'staircase', 'stairs']"
+stamp,['stamp']
+stapler,"['staple gun', 'stapler']"
+steamer,['steamer']
+steering_wheel,['steering_wheel']
+stereo,['stereo']
+"stick_(stick,_twig)","['stick', 'stirring stick', 'turning stick', 'twig', 'wooden stick']"
+sticker,['sticker']
+stock_(food),['stock']
+"stone_(rock,_stone)","['concrete stones', 'rock', 'stone']"
+stool,"['step stool', 'stepstool', 'stool', 'window stool']"
+"stove_(burner,_gas,_stove)","['burner', 'gas', 'stove']"
+strap,['strap']
+straw,['straw']
+strawberry,['strawberry']
+stretcher,['stretcher']
+"string_(bobbin,_knot,_lace,_ribbon,_spool,_strand,_string,_thread,_twine,_wool,_yarn)","['bobbin', 'bundle of twine', 'knot', 'lace', 'needle', 'ribbon', 'spiral string', 'spool', 'strand', 'string', 'string roll', 'thread', 'twine', 'wool', 'yarn']"
+stroller,['baby walker']
+"switch_(knob,_switch)","['cooker knob', 'knob', 'switch']"
+syringe,['syringe']
+"table_(stand,_table)","['stand', 'table', 'wooden stand']"
+tablet,['tablet']
+taco,['taco']
+"tape_(cellotape,_sellotape,_tape)","['cellotape', 'sellotape', 'tape']"
+"tape_measure_(measure,_measurement)","['measure', 'measurement', 'measuring tape', 'tape', 'tape measure', 'tape rule', 'tape_measure']"
+tea,"['tea', 'tea urn']"
+teapot,"['tea can', 'tea dispenser', 'tea urn', 'teapot']"
+"television_(television,_tv)","['television', 'tv']"
+tent,['tent']
+test_tube,"['test tube', 'test-tube', 'testtube']"
+thermometer,['thermometer']
+ticket,['ticket']
+tie,['tie']
+tile,"['path tile', 'tile']"
+timer,['timer']
+tire,"['freehub body of the tire', 'tire']"
+toast,['toast']
+toaster,"['toast machine', 'toaster']"
+tofu,['tofu']
+toilet,"['potty', 'toilet']"
+toilet_paper,['toilet paper']
+tomato,['tomato']
+tongs,['tongs']
+tool_box,"['bolt box', 'tool_box']"
+toolbox,"['tool_box', 'toolbox']"
+toothbrush,['toothbrush']
+toothpick,['toothpick']
+"torch_(torch,_torchlight)","['torch', 'torchlight']"
+towel,"['kitchen towel', 'nail particles', 'paper towel', 'towel']"
+"toy_(doll,_toy)","['dog flyer toy', 'dog toy', 'doll', 'lego toy', 'robot', 'toy', 'toy pieces']"
+tractor,['tractor']
+transistor,['transistor']
+"trash_(debris,_garbage,_litter,_trash,_waste)","['debris', 'garbage', 'litter', 'litter bag', 'trash', 'trash bag', 'unwanted part of food', 'waste', 'waste bag', 'weed']"
+tray,"['baking pan', 'baking tray', 'ice tray', 'metal baking peel', 'metal board', 'refrigerator tray', 'roller tray', 'tray']"
+treadmill,['treadmill']
+tree,"['christmas tree', 'lemon tree', 'tree', 'trunk']"
+"trimmer_(pruner,_trimmer)","['pruner', 'trimmer']"
+trowel,"['notch trowel', 'trowel']"
+truck,['truck']
+trumpet,['trumpet']
+turnip,['turnip']
+tweezer,"['tweezer','tongs']"
+typewriter,['typewriter']
+umbrella,"['canopy', 'umbrella']"
+"undergarment_(boxer,_bra)","['boxer', 'boxer short', 'bra', 'undergarment']"
+vacuum,['vacuum']
+vacuum_cleaner,"['dust collector', 'vaccum cleaner', 'vacuum cleaner', 'vacuum cleaner engine', 'vacuum cleaner engine sac', 'vacuum pipe', 'vacuum_cleaner']"
+valve,['valve']
+vase,"['flower vase', 'pottery', 'urn', 'vase']"
+video_game,"['game console', 'video_game']"
+vinegar,['vinegar']
+violin,['violin']
+wall,['wall']
+wallet,"['plastic wallet', 'wallet']"
+wallpaper,['wallpaper']
+washing_machine,"['washer', 'washing machine', 'washing machine door']"
+watch,"['stopwatch', 'watch']"
+water,"['liquid', 'spray nozzle', 'water']"
+watermelon,['watermelon']
+weighing_scale,"['measuring scale', 'weighing machine', 'weighing_scale','electronic scale']"
+welding_torch,"['weld gun', 'welding gun', 'welding handle', 'welding hook', 'welding machine', 'welding tool', 'welding torch']"
+"wheat_(maize,_wheat)","['maize', 'wheat']"
+"wheel_(tyre,_wheel)","['axle', 'axle of the tire', 'balance wheel', 'bicycle rim', 'bicycle wheel', 'car rim', 'freehub body of the tire', 'inner tube', 'jog wheel', 'tire', 'tyre', 'tyre tube', 'wheel', 'wheel bearing', 'wheel blaster', 'wheel disk', 'wheel disk rotor', 'wheel part', 'wheel rubber', 'wheel truing stand', 'wheel truing stand.']"
+wheelbarrow,['wheelbarrow']
+whisk,['whisk']
+window,['window']
+windshield,"['wind screen', 'wind shield', 'windscreen', 'windshield']"
+wiper_(car),['wiper']
+"wire_(adapter,_cable,_charger,_connector,_cord,_wire)","['adapter', 'battery connector', 'blue wire', 'brake cable', 'brake wire', 'break wire', 'cable', 'cable grip', 'charger', 'choke', 'choke shutter', 'coil', 'connector', 'cord', 'solder flux', 'solder wick', 'wire', 'wire gauze', 'wire mesh']"
+"wood_(fiber,_firewood,_floorboard,_log,_lumber,_plank,_plywood,_timber,_wood,_woodcraft,_woodwork)","['board', 'board piece', 'fiber', 'firewood', 'floorboard', 'furniture', 'laminate wood', 'log', 'lumber', 'piece of wood', 'plank', 'plywood', 'rip bar', 'small wood', 'square wood', 'timber', 'wood', 'wood piece', 'wood plank', 'woodcraft', 'wooden block', 'wooden plank', 'wooden rail', 'wooden slab', 'woodwork']"
+worm,['worm']
+"wrapper_(covering,_film,_seal,_wrap,_wrapper,_wrapping)","['battery cover', 'covering', 'film', 'plastic cover', 'plastic wraps','plastic wrap', 'seal', 'stretch wrap', 'wrap', 'wrapper', 'wrapping','cling wrap','cling wraps']"
+"wrench_(spanner,_wrench)","['allen key', 'cordless wrench', 'fork spanner', 'hex wrench', 'impact wrench', 'l shaped wrench', 'lug wrench', 'nut tightener', 'socket spanner', 'socket wrench', 'spanner', 'spoke wrench spanner', 't wrench', 'torque wrench', 'wrench']"
+yam,['yam']
+yeast,"['pack of yeast', 'yeast']"
+yoghurt,['yoghurt']
+"zipper_(zip,_zipper)","['zip', 'zipper']"
+zucchini,['zucchini']
+scallion,"[""scallion"",""green onion"",'shallot']"
+basin,"['basin','aluminum basin','washbasin']"
+starch,"['starch','corn starch','cornstarch']"
+garlic sprouts,"['garlic sprouts','garlic sprout']"
+wine,"['wine','cooking wine','Shaoxing wine','shaoxing wine']"
+tofu skin,"['tofu skin','dry tofu']"
+day lily,"['day lily','day lily bud','daulily','daylily bud']"
+wood ear,"['agaric','wood ear','wood ear mushroom']"
+dumpling,"['dumpling','gnocchi']"
+pocket,['pocket']
+pigskin,"['pigskin','pig skin']"
+range hood,"['oil fume hood','range hood']"
+bok choy,['bok choy']
+yardlong bean,['yardlong bean']
+bone,"['bone','cartilage']"
+flamethrower,['flamethrower']
+green_pea,"['green peas','green pea']"
+sesame,['sesame']
+cilantro_(parsley),"['cilantro','parsley']"
+kelp,['kelp']
+tenderloin,['tenderloin']
+eyeball,['eyeball']
+chive,['chive']
+anise,"['anise','star anise']"
+dehumidifier,['dehumidifier']
+rape,"['rape','rapeseed']"
+thickener,"['thickener','thickening agent']"
+abalone,['abalone']
+yolk,['yolk']
+eggshell,['eggshell']
+fryer,"['air fryer','fryer']"
+thermos,['thermos']
+dropper,"['dropper','eyedropper']"
+alcohol lamp,"['alcohol lamp','alcohol burner']"
+incubator,"['incubator','cultivation chambe']"
+balance,['balance']
+resin,['resin']
+reagent,['reagent']
+powder,"['powder','powdered substance']"
+water bath,['water bath']
+piston,['piston']
+forceps,['forceps']
+vortexer,['vortexer']
+centrifuge,['centrifuge']
+solution,['solution']

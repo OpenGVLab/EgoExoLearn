@@ -1,0 +1,126 @@
+label,group
+"adjust_(regulate,_increase/reduce,_change)","['adjust', 'change', 'expand', 'increase/reduce', 'level', 'levels', 'low', 'lower', 'lowers', 'raise', 'raises', 'readjust', 'reduce', 'regulate', 'regulates', 'shrink', 'switch', 'tune']"
+"apply_(spread,_smear)","['apply', 'plaster', 'smear', 'spread']"
+"arrange_(straighten,_sort,_distribute,_align)","['align', 'arrange', 'disentangle', 'distribute', 'organize', 'organizes', 'position', 'realign', 'rearange', 'rearrange', 'rearrangee', 'reposition', 'repositions', 'ruffle', 'ruffles', 'set out', 'shift', 'shifts', 'sort', 'stack', 'straighten', 'straightens', 'untangle', 'unwind','tidy','tidy up']"
+"attach_(plug-in,_join,_fasten,_connect,_attach)","['affix', 'attach', 'bind', 'binds', 'connect', 'fasten', 'fit', 'fits', 'interlock', 'intertwine', 'join', 'nail', 'nails', 'plug-in', 'solder', 'solders']"
+blow,['blow']
+break,"['break', 'crack', 'cracks', 'pluck', 'plucks', 'snap', 'tear', 'tears']"
+carry,['carry']
+catch,['catch']
+clap,['clap']
+"clean_(sweep,_scrub,_mop,_dust)","['brush', 'brushes', 'clean', 'cleaner', 'cleans', 'cleanse', 'dust', 'mop', 'sanitize', 'scrub', 'shine', 'sweep', 'vaccum', 'vacuum']"
+climb,"['ascend', 'climb', 'mount']"
+close,"['close', 'seal', 'shut', 'shuts']"
+"consume_(taste,_sip,_eat,_drink)","['consume', 'drink', 'eat', 'lick', 'sip', 'smoke', 'taste']"
+count,['count']
+cover,['cover']
+crochet,"['crochet', 'crotchet']"
+cross,['cross']
+"cut_(trim,_slice,_chop)","['carve', 'chop', 'cut', 'cuts', 'descend', 'mow', 'prune', 'prunes', 'shave', 'shaves', 'slash', 'slice', 'trim','mince']"
+"detach_(unplug,_unhook,_disconnect)","['detach', 'disconnect', 'dismantles', 'unclip', 'unclips', 'unfasten', 'unhook', 'unlatche', 'unlatches', 'unplug', 'unproot', 'uproot', 'uproots']"
+dig,['dig']
+dip,['dip']
+"divide_(split,_separate)","['divide', 'separate', 'split', 'widen']"
+draw,"['draw', 'drawing', 'stretch']"
+drill,"['bore', 'drill', 'makes a hole', 'makes a holes']"
+"drive_(ride,_drive)","['drive', 'ride']"
+enter,['enter']
+feed,['feed']
+file_(with_tool),"['file', 'files']"
+fill,['fill']
+fold,['fold']
+fry,"['fry','saute']"
+give,"['give', 'hand', 'hands']"
+grate,['grate']
+grind,"['crush', 'grind','smash']"
+hang,['hang']
+"hit_(knock,_hit,_hammer)","['hammer', 'hit', 'knock']"
+"hold_(support,_grip,_grasp)","['grasp', 'grip', 'hold', 'secure', 'support','clutch','pinch']"
+insert,['insert']
+"inspect_(check,_look,_examine,_view)","['check', 'compare', 'examine', 'inspect', 'look', 'observe', 'see', 'view']"
+iron,['iron']
+kick,['kick']
+knead,"['knead', 'kneads']"
+knit,['knit']
+lift,"['lift', 'rais', 'raise up']"
+lock,['lock']
+loosen,"['loose', 'loosen', 'untighten']"
+mark,['mark']
+"measure_(weigh,_measure)","['measure', 'weigh']"
+mix,"['beat', 'blend', 'combine', 'mix', 'mixes', 'stir', 'stirs','whisk']"
+mold,"['mold', 'mould', 'moulds', 'shape', 'shapes']"
+"move_(transfer,_pass,_exchange)","['bring', 'bring down', 'bring out', 'brings', 'brings out', 'brings to light', 'carries', 'carry', 'exchange', 'move', 'moves', 'pass', 'share', 'shares', 'slid', 'slide', 'slides', 'slids', 'swap', 'transfer']"
+open,"['open', 'reopen', 'unlock', 'unlocks', 'unwrap', 'unwraps', 'unzip']"
+"operate_(use,_dial,_click-button)","['click-button', 'dial', 'operate', 'run', 'type', 'types', 'use','click']"
+pack,"['pack','wrap']"
+paint,"['color', 'colors', 'colour', 'paint']"
+park,['park']
+peel,"['peel', 'skin']"
+pet,['pet']
+plant,['plant']
+play,['play']
+point,['point']
+pour,"['drain', 'drains', 'empties', 'empty', 'pour', 'pours', 'spil', 'spill']"
+press,"['compress', 'crimp', 'flat', 'flatten', 'flattens', 'press']"
+pull,"['drag', 'drags', 'pull', 'pull out', 'pullout']"
+pump,['pump']
+push,"['push','flick']"
+"put_(place,_leave,_drop)","['add', 'adds', 'bottom', 'drop', 'drops', 'heap', 'heaps', 'keep', 'leave', 'let go', 'pile', 'place', 'places', 'put', 'put aside', 'put back', 'release', 'return', 'returns', 'set', 'soak', 'soaks']"
+read,['read']
+remove,"['remove', 'withdraw', 'withdraws']"
+repair,"['fix', 'fixe', 'fixes', 'repair']"
+roll,['roll']
+sand,"['sand', 'sandpaper', 'sandpapers']"
+scoop,"['scoop', 'scoops']"
+scrape,"['scrap', 'scrape', 'scrapple', 'scratch', 'scratche', 'scratches']"
+screw,['screw']
+scroll,['scroll']
+search,"['search', 'searches','rummage']"
+serve,['serve']
+"sew_(weave,_stitch,_sew)","['sew', 'sow', 'sows', 'stich', 'stitch', 'thread', 'weave']"
+shake,"['shake', 'shake off', 'vibrate','sway']"
+sharpen,['sharpen']
+shuffle,"['rehuffle', 'reshuffle', 'shuffle']"
+sieve,"['sieve', 'winnnow', 'winnow']"
+sit,"['kneel', 'lay', 'lays', 'sit']"
+smooth,"['smooth', 'smoothen', 'smoothens']"
+spray,['spray']
+sprinkle,"['scatter', 'scatters', 'sprinkle','drizzle']"
+squeeze,"['squeeze', 'squeezes']"
+stand,['stand']
+step,['step']
+"stick_(tape,_stick,_glue)","['glue', 'stick', 'tape']"
+stretch,['stretch']
+swing,"['swing','swung','swirl']"
+"take_(pick,_grab,_get)","['collect', 'collects', 'fetch', 'gather', 'gathers', 'get', 'grab', 'lift', 'pick', 'pick out', 'picks', 'select', 'take', 'take back', 'take down', 'take out', 'takes', 'takes down']"
+"talk_(talk,_interact,_converse)","['converse', 'dialogue', 'gesticulate', 'interact', 'talk']"
+"throw_(toss,_dump,_dispose)","['dispose', 'dump', 'fling', 'throw', 'throws', 'toss', 'trash', 'trashes','discard']"
+tie,['tie']
+tighten,"['clamp', 'tighten']"
+tilt,['tilt']
+touch,"['pat', 'tap', 'taps', 'touch']"
+"turn_(spin,_rotate,_flip,_turn_over)","['flip', 'rotate', 'rotates', 'spin', 'turn', 'turn_over', 'twist', 'twists']"
+"turn_off_(turn_off,_switch_off)","['extinguish', 'put off', 'switch_off', 'turn off', 'turn_off']"
+"turn_on_(switch_on,_start,_light)","['light', 'put on', 'start', 'switch_on', 'turn on', 'turn_on']"
+uncover,['uncover']
+unfold,['unfold']
+unroll,['unroll']
+unscrew,['unscrew']
+untie,['untie']
+walk,['walk']
+wash,"['rinse', 'rinses', 'wash']"
+watch,['watch']
+water,['water']
+wave,['wave']
+wear,['wear']
+weld,['weld']
+wipe,"['erase', 'erases', 'polish', 'polishes', 'rub', 'rubbing', 'rubs', 'wipe']"
+write,"['note', 'write', 'writes','mark']"
+zip,['zip']
+poke,"['poke','stab']"
+skim,['skim']
+ignite,['ignite']
+scramble,['scramble']
+inject,['inject']
+install,"['install','assemble']"
+aspirate,"['aspirate','extract']"
