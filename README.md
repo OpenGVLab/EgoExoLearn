@@ -44,6 +44,11 @@ We hope our dataset can provide resources for future work for bridging asynchron
 
 [I3D RGB features of gaze cropped videos](https://drive.google.com/file/d/1-MCjVrPC25yXgxb5eu6Sgx8HDMQb0ZMa/view?usp=drive_link)
 
+### Option 2: BaiduYun link
+[EgoExoLearn](https://pan.baidu.com/s/1fLz5bQn4bMLHU5GiEUxsjg?pwd=tm1g)
+
+Code: tm1g
+
 ## :black_nib: Citation
 
    If you find our repo useful for your research, please consider citing our paper:
