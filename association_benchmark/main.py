@@ -146,7 +146,7 @@ def main(args):
 
         logger.info('=> 0-shot on MCQ')
         v2v_metrics = validate_v2v_mcq(egobridge_v2v_loader, model, use_half=False, cfg=cfg, args=args)
-        logger.info('V2V Ego->Exo: {:.3f} | V2T Exo->Ego: {:.3f}'.format(v2v_metrics['Ego->Exo'], v2v_metrics['Exo->Ego']))
+        logger.info('V2V Ego->Exo: {:.3f} | V2V Exo->Ego: {:.3f}'.format(v2v_metrics['Ego->Exo'], v2v_metrics['Exo->Ego']))
         avg_map = 0.5 * (v2v_metrics['Ego->Exo'] + v2v_metrics['Exo->Ego'])
         
         if avg_map > best_metric:
