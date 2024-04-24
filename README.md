@@ -34,7 +34,7 @@ We hope our dataset can provide resources for future work for bridging asynchron
 ### Option 1: Google Drive links
 [Videos (320p, mp4)](https://drive.google.com/file/d/13L0VsE-qYgeqVVdBW_Yb3qKSAD9ucNfs/view?usp=drive_link)
 
-[Gaze (processed, npy)](https://drive.google.com/file/d/19TAsggbhM9NeUKF9rxZnsTC7z4m8egw8/view?usp=drive_link)
+[Gaze (processed, npy)](https://drive.google.com/file/d/1W3blKBEe_h_aUcaJdw4ohROLp-apfE39/view?usp=sharing)
 
 [CLIP features 5fps](https://drive.google.com/file/d/1caIMMCtnws3arFYit0nq4yhBaNdCBOF5/view?usp=drive_link)
 
