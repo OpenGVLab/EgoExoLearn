@@ -12,6 +12,7 @@ This repository contains the data and benchmark code of the following paper:
 
 ## :fire: News <a name="news"></a>
 
+- `[2024/05]` Our paper with supplementary material can be found [here](./asset/full.pdf).
 - `[2024/03]` Part of EgoExoLearn [raw annotations](./annotations/) released.
 - `[2024/03]` EgoExoLearn [paper](https://arxiv.org/abs/2403.16182) released.
 - `[2024/03]` Annotation and code for the [cross-view association](./association_benchmark/) and [cross-view referenced skill assessment](./skill_benchmark/) benchmarks are released.
