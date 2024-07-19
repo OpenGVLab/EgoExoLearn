@@ -124,8 +124,5 @@ build
 # experiment-related folders
 *experiments*
 
-# JSON files
-*.json
-
 # backup files
 *backup*
