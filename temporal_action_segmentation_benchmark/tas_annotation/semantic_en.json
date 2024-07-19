@@ -1,0 +1,110 @@
+[
+    {
+      "key": "Prepare tomato",
+      "value": "1"
+    },
+    {
+      "key": "Prepare green vegetable",
+      "value": "2"
+    },
+    {
+      "key": "Prepare eggplant",
+      "value": "3"
+    },
+    {
+      "key": "Prepare potato",
+      "value": "4"
+    },
+    {
+      "key": "Prepare greed/red pepper",
+      "value": "5"
+    },
+    {
+      "key": "Prepare cucumber",
+      "value": "6"
+    },
+    {
+      "key": "Prepare spices",
+      "value": "7"
+    },
+    {
+      "key": "Prepare dough",
+      "value": "8"
+    },
+    {
+      "key": "Prepare sause",
+      "value": "9"
+    },
+    {
+      "key": "Prepare meat",
+      "value": "10"
+    },
+    {
+      "key": "Prepare egg",
+      "value": "11"
+    },
+    {
+      "key": "Cut tomato",
+      "value": "12"
+    },
+    {
+      "key": "Cut green vegetable",
+      "value": "13"
+    },
+    {
+      "key": "Cut eggplant",
+      "value": "14"
+    },
+    {
+      "key": "Cut potato",
+      "value": "15"
+    },
+    {
+      "key": "Cut green/red pepper",
+      "value": "16"
+    },
+    {
+      "key": "Cut meat",
+      "value": "17"
+    },
+    {
+      "key": "Cut spices",
+      "value": "18"
+    },
+    {
+      "key": "Boil soup",
+      "value": "19"
+    },
+    {
+      "key": "Boil meat",
+      "value": "20"
+    },
+    {
+      "key": "Boil tofu",
+      "value": "21"
+    },
+    {
+      "key": "Boil green vegetable",
+      "value": "22"
+    },
+    {
+      "key": "Deep frying",
+      "value": "23"
+    },
+    {
+      "key": "Stir-frying",
+      "value": "24"
+    },
+    {
+      "key": "Add sause",
+      "value": "25"
+    },
+    {
+      "key": "Clean utensil/hand",
+      "value": "26"
+    },
+    {
+      "key": "Other",
+      "value": "27"
+    }
+  ]
