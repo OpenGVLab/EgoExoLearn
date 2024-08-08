@@ -7,11 +7,12 @@ This repository contains the data and benchmark code of the following paper:
 
 [![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2403.16182)
 [![Project Page](https://img.shields.io/badge/Homepage-Website-green)](https://egoexolearn.github.io/)
-[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)]()
-[![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)]()
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/hyf015/EgoExoLearn)
+[![Video](https://img.shields.io/badge/YouTube-Video-c4302b?logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=jqrJ20E_gEs)
 
 ## :fire: News <a name="news"></a>
 
+- `[2024/08]` The original size videos can now be found at the [huggingface repo](https://huggingface.co/datasets/hyf015/EgoExoLearn).
 - `[2024/05]` Our paper with supplementary material can be found [here](./asset/full.pdf).
 - `[2024/03]` Part of EgoExoLearn [raw annotations](./annotations/) released.
 - `[2024/03]` EgoExoLearn [paper](https://arxiv.org/abs/2403.16182) released.
