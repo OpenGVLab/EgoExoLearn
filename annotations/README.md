@@ -26,4 +26,6 @@ For coarse annotations, please first refer to the action segmentation benchmark 
 
 `narration_noun_taxonomy.csv` and `narration_verb_taxonomy.csv`: We use these taxonomy to extract verb and noun IDs in the action anticipation and planning benchmarks.
 
+Please use the `fine_annotation_test.csv` as the test split file, and to validate the test results, `fine_annotation_trainvaltest_en.csv` contains the ground truth for test set as well.
+
 :mailbox_with_mail: For any questions, please contact: [Yifei Huang](https://hyf015.github.io/) ( hyf at iis.u-tokyo.ac.jp ) 
