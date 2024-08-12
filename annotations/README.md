@@ -9,6 +9,8 @@ We release the annotation for the training and validation set only. We will sepa
 ## :fire: Updates <a name="news"></a>
 Annotations of the fine-level actions are released.
 
+For coarse annotations, please first refer to the action segmentation benchmark for timestamps.
+
 ## Contents
 `fine_annotation_trainval_en.csv`: The annotation csv file. It include the following fields:
 - `video_uid`: The uid of the video. This is the same with the downloaded videos.
