@@ -53,6 +53,8 @@ We hope our dataset can provide resources for future work for bridging asynchron
 Code: tm1g
 
 ### Option 3: Huggingface
+(fullsize videos only)
+
 [EgoExoLearn](https://huggingface.co/datasets/hyf015/EgoExoLearn/tree/main)
 
 ## :black_nib: Citation
