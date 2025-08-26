@@ -12,6 +12,7 @@ This repository contains the data and benchmark code of the following paper:
 
 ## :fire: News <a name="news"></a>
 
+- `[2024/08]` We release a video QA annotation include MCQ and Open-ended QA. Please have a try!
 - `[2024/08]` We release the test set annotation as well. Please do not use them for training.
 - `[2024/08]` The original size videos can now be found at the [huggingface repo](https://huggingface.co/datasets/hyf015/EgoExoLearn).
 - `[2024/05]` Our paper with supplementary material can be found [here](./asset/full.pdf).
